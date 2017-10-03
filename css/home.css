@@ -1,0 +1,41 @@
+body{
+  background: url("../img/fondo.jpg") no-repeat center center fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+}
+.container{
+  background: rgba(48, 113, 128, 0.73);
+    margin: 80px;
+}
+.img-articulo{
+  width: 80%;
+  border-radius: 8%;
+  border: 1px solid white;
+}
+.fi-torso{
+  font-size: 2.6em;
+}
+a{
+  color: black !important;
+  font-family: cursive;
+}
+li{
+  border: 1px solid #ffb6c1;
+  background-color: white;
+}
+.img-plato{
+  width: 200px;
+  height: 150px;
+  border-radius: 5%;
+  border: 1px solid white;
+}
+.comentario{
+  font-family: sans-serif;
+  font-style: oblique;
+  font-weight: bold;
+}
+.button{
+  background-color: #ffb6c1;
+}
